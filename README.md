@@ -35,6 +35,8 @@ and postgres for storing and retrieving application data.
 - Integration of scripts and postgres as multiple services as containers.
 - Reading data from files and populating to database.
 
+## This is the schedule
+
 ## Schedule
 | Time            | Topics
 |-----------------|-------
